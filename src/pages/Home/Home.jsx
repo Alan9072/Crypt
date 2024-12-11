@@ -68,7 +68,7 @@ function Home({ curr, query }) {
   return (
     <div className="home">
       <div className="hero">
-        <h1>Cryptocurrency Insights</h1>
+        <h1>Crypto Insights</h1>
         <p>
           Discover the potential of digital currencies! Dive into various
           cryptocurrencies and boost your financial knowledge.

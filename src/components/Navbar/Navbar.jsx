@@ -20,7 +20,7 @@ function Navbar({curr,setCurr,query,setQuery}) {
     
   return (
     <div className='navbar'>
-        <h2>Crypt-Chart</h2>
+        <h2>CRYPT</h2>
         {
             !isDetailsPage &&(
 
