@@ -26,7 +26,7 @@ function Navbar({curr,setCurr,query,setQuery}) {
 
             <form className="navform" action="" onSubmit={handleBtnSubmit}>
             <input type="text" value={query} placeholder='Search top 100 cryptos...' onChange={handleChange}/>
-            <BsSearch onClick={handleBtnSubmit} style={{backgroundColor:"white",height:"0.8cm",width:"0.9cm",padding:"3px",borderRadius:"5px"}}/>
+            <BsSearch onClick={handleBtnSubmit} style={{backgroundColor:"white",height:"0.7cm",width:"0.9cm",padding:"3px",borderRadius:"5px"}}/>
             </form>
             )
 

@@ -13,7 +13,7 @@ function App() {
       <Navbar curr={curr} query={searchQuery} setQuery={setSearchQuery} setCurr={setCurr}/>
       <Routes>
         <Route path='/' element={<Home curr = {curr} query = {searchQuery}/>}/>
-        <Route path='/crypto/:id' element={<CryptoDetail curr={curr}/>}/>
+        {/* <Route path='/crypto/:id' element={<CryptoDetail curr={curr}/>}/> */}
       </Routes>
     </BrowserRouter>
   )
