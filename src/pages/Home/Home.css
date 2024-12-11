@@ -77,7 +77,7 @@ h1{
     gap: 5px;
 }
 .eachlist{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     display: flex;
     align-items: center;
     justify-content:space-between;
