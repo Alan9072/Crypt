@@ -43,9 +43,9 @@ input{
 } 
 select{
     background-color: rgb(255, 255, 255);
-    height: 0.6cm;
+    height: 0.7cm;
     border: none;
-    border-radius: 5px;
+    border-radius: 20px;
     padding: 0px 5px;
     outline: none;
 }

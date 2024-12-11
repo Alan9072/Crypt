@@ -87,9 +87,9 @@ function Home({ curr, query }) {
         <BsSearch
           onClick={handleBtnSubmit}
           style={{
-            backgroundColor: "black",
-            height: "0.7cm",
-            width: "0.9cm",
+            backgroundColor: "transparent",
+            height: "0.6cm",
+            width: "0.8cm",
             padding: "3px",
             borderRadius: "5px",
             color: "white",
